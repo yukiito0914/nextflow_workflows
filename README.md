@@ -1,1 +1,1 @@
-# nextflow_workflows
+# rna_seq_workflows
